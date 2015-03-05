@@ -1,0 +1,16 @@
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\bin\Release\lianliankan.exe
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\bin\Release\lianliankan.pdb
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\ResolveAssemblyReference.cache
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.Form1.resources
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.Properties.Resources.resources
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.csproj.GenerateResource.Cache
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.exe
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.pdb
+G:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.exe
+G:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.pdb
+G:\软件学院\班级工作\女生节\lianliankan\lianliankan\bin\Release\lianliankan.exe
+G:\软件学院\班级工作\女生节\lianliankan\lianliankan\bin\Release\lianliankan.pdb
+G:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\ResolveAssemblyReference.cache
+G:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.Form1.resources
+G:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.Properties.Resources.resources
+G:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Release\lianliankan.csproj.GenerateResource.Cache

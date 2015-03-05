@@ -1,0 +1,8 @@
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\bin\Debug\lianliankan.exe
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\bin\Debug\lianliankan.pdb
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Debug\ResolveAssemblyReference.cache
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Debug\lianliankan.Form1.resources
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Debug\lianliankan.Properties.Resources.resources
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Debug\lianliankan.csproj.GenerateResource.Cache
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Debug\lianliankan.exe
+L:\软件学院\班级工作\女生节\lianliankan\lianliankan\obj\Debug\lianliankan.pdb
